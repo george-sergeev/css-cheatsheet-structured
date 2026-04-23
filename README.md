@@ -23,7 +23,5 @@ font-family: "Название шрифта (*должно совпадать с
 
 ## CSS
 ```md id="c2"
-```css
-body {
-  background: #fff;
-}
+```js
+let a = 1
