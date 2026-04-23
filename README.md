@@ -7,8 +7,11 @@
 
 ![Typography](https://img.shields.io/badge/Typography-A3A3A3?&style=for-the-badge)
 
-font-family: "Название шрифта (*должно совпадать с тем, что написано в @font-face*)", sans-serif;
-Начертания бывают
+font-family: "Название шрифта (*должно совпадать с тем, что написано в @font-face*)", семейство шрифтов;
+
+<details>
+  <summary>Семейства шрифтов</summary>
+
 | Тип | Описание |
 |:------------:|:------------:|
 | sans-serif | без засечек |
@@ -16,13 +19,4 @@ font-family: "Название шрифта (*должно совпадать с
 | monospace| равная ширина |
 | cursive | рукописный стиль |
 | fantasy| декоративный |
-
-<details>
-  <summary>Заголовок спойлера</summary>
-
-  Скрытый текст внутри.
-
-  - Можно писать списки
-  - Код
-  - Таблицы
 </details>
