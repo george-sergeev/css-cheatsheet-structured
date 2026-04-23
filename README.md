@@ -6,4 +6,5 @@
 ![Positioning](https://img.shields.io/badge/Positioning-0373FF?style=for-the-badge)
 
 ![Typography](https://img.shields.io/badge/Typography-A3A3A3?&style=for-the-badge)
-font-family: "Название шрифта (должно совпадать с тем, что написано в @font-face", sans-serif;
+
+font-family: "Название шрифта (*должно совпадать с тем, что написано в @font-face*)", sans-serif;
