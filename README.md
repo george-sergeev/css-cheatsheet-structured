@@ -20,3 +20,10 @@ font-family: "Название шрифта (*должно совпадать с
 | cursive | рукописный стиль |
 | fantasy| декоративный |
 </details>
+
+## CSS
+```md id="c2"
+```css
+body {
+  background: #fff;
+}
