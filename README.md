@@ -8,3 +8,8 @@
 ![Typography](https://img.shields.io/badge/Typography-A3A3A3?&style=for-the-badge)
 
 font-family: "Название шрифта (*должно совпадать с тем, что написано в @font-face*)", sans-serif;
+Начертания бывают
+| Заголовок 1 | Заголовок 2 |
+|------------|------------|
+| sans-serif | без засечек |
+| Ячейка 3   | Ячейка 4   |
