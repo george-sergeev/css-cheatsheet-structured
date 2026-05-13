@@ -22,6 +22,5 @@ font-family: "Название шрифта (*должно совпадать с
 </details>
 
 ## CSS
-```md id="c2"
 ``` css
 text-align: center;
