@@ -3,7 +3,7 @@
 Я у себя немного перфекционист и во всех своих проектах стараюсь всё делать по одной чётко выверенной системе
 Вся информация о свойствах вязата с сайте MDN Web Docs
 
-![Positioning & Flow](https://img.shields.io/badge/Positioning&Flow-0373FF?style=for-the-badge)
+![Positioning & Flow](https://img.shields.io/badge/Positioning%20%26%20Flow-0373FF?style=for-the-badge)
 
 ![Typography](https://img.shields.io/badge/Typography-A3A3A3?&style=for-the-badge)
 
