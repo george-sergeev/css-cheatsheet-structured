@@ -24,3 +24,6 @@ font-family: "Название шрифта (*должно совпадать с
 ## CSS
 ``` css
 text-align: center;
+```
+
+https://img.shields.io/badge/Visual-3B82F6?style=for-the-badge
