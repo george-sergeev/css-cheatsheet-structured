@@ -23,5 +23,5 @@ font-family: "Название шрифта (*должно совпадать с
 
 ## CSS
 ```md id="c2"
-```js
-let a = 1
+``` css
+text-align: center;
