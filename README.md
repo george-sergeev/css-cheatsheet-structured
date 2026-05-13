@@ -3,6 +3,12 @@
 Я у себя немного перфекционист и во всех своих проектах стараюсь всё делать по одной чётко выверенной системе
 Вся информация о свойствах вязата с сайте MDN Web Docs
 
+# Содержание
+
+1. [Positioning](#positioning)
+2. [Typography](#typography)
+3. [Flexbox](#flexbox)
+
 ![Positioning & Flow](https://img.shields.io/badge/Positioning%20%26%20Flow-ED6555?style=for-the-badge)
 
 ![Typography](https://img.shields.io/badge/Typography-A3A3A3?&style=for-the-badge)
